@@ -2,7 +2,7 @@
 ## Projeto de consumo de API Via CEP (responsivo) 📕
 
 Projeto usando Fetch .json nativo do Javascript, para cadastro de endereço e validação pra simular um site de compras.<br>
-Nesse projeto foi usado Bootstrap, framework para a estilização da página em modo responsivo para todos os dispositivos (celular, tablets, laptops e PC)<br>
+Nesse projeto foi usado Bootstrap, para a estilização da página em modo responsivo para todos os dispositivos (celular, tablets, laptops e PC)<br>
 O projeto consiste em uma API pública para busca de CEP , onde o usuário digita o número do CEP e os campos são preenchidos automaticamente.<br>
 Este projeto é muito usado em aplicações de e-commerces, na etapa de configuração de endereço de entrega.
 
